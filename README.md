@@ -1,2 +1,2 @@
 # Latihan-Git-and-Github
-latihan remote
+sedang belajar mengoperasikan git dan github
